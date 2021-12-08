@@ -582,6 +582,7 @@ header .icons #menu-bars{
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    display:none;
 }
 
 .loader-container img{
